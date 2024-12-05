@@ -1,5 +1,5 @@
-from infra.config.database import Base
-from infra.models.models import UData, UItem
+from src.infra.config.database import Base
+from src.infra.models.models import UData, UItem
 
 from logging.config import fileConfig
 
